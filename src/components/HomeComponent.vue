@@ -135,7 +135,6 @@
           </p>
           <div class="d-flex justify-content-center gap-3 flex-wrap">
             <a
-              href="#series"
               class="btn btn-primary btn-lg fw-semibold shadow-sm px-5"
             >
               <i class="bi bi-journals me-2"></i>Ver Series
